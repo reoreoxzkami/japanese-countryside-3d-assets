@@ -17,6 +17,11 @@
 - 画像はバイナリをリポジトリに置かず、itch CDN（img.itch.zone）の実カバー画像URLをページごとに参照する（パック別カバー＋コレクションカバー、いずれもReaddy宣伝サイトで使用中の実URL）。
 - リポジトリ: reoreoxzkami/japanese-countryside-3d-assets
 
+## 公開状態（2026-11-21確認）
+- 公開URL: https://reoreoxzkami.github.io/japanese-countryside-3d-assets/
+- 実URLで確認済み：ホーム（全10パックのグリッド）／パック個別ページ（kominka）／コレクションページ／sitemap.xml（12 URL）
+- リポジトリ: https://github.com/reoreoxzkami/japanese-countryside-3d-assets（main ブランチから Pages 公開）
+
 ## 公開後にやること
 - Search Consoleに新プロパティ（または既存プロパティ配下なら sitemap.xml を追加送信）
 - IndexNowで12 URLを一括送信（既存の鍵が使えるのは pjqipl ドメインのみ。新ドメインなら鍵を再設置）
