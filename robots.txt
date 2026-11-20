@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reoreoxzkami.github.io/japanese-countryside-3d-assets/sitemap.xml
